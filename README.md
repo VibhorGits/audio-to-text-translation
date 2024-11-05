@@ -3,7 +3,7 @@
 
 The pipeline accepts an audio recording from the user along with a specified translation language, then displays the transcribed text from the audio.  
 This pipeline uses Open AI's Text and Speech Recognition components to handle audio file( mp3,mp4,wav format etc).  
-Pipeline Link: https://instill.tech/vibhor/pipelines/audio-to-text/editor
+Pipeline Link: https://instill.tech/vibhor/pipelines/audio-to-text/playground
 
 
 
